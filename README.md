@@ -9,7 +9,7 @@
 
 **Site institucional da Barbearia Leozin do Corte** — tradição de bairro com acabamento premium.
 
-[🔗 Acessar o site ao vivo](#) <!-- ⬅️ COLOQUE AQUI O LINK DO GITHUB PAGES -->
+[[🔗 Acessar o site ao vivo](#)](https://caio9correa.github.io/Barbearia_Leonzin/) <!-- ⬅️ COLOQUE AQUI O LINK DO GITHUB PAGES -->
 
 </div>
 
